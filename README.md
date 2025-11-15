@@ -32,7 +32,7 @@ Tailwind CSS / CSS
 
 Axios (API Calls)
 
-Backend (If you built one)
+Backend 
 
 Node.js
 
